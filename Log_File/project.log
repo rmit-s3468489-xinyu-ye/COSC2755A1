@@ -1,0 +1,773 @@
+INFO:root:Find MAC address: 90:B0:ED:31:7E:C5
+INFO:root:Function getSenseHatData ran with argument: (<monitorAndNotify.Sending object at 0x752d15d0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.04465913772583008 seconds
+INFO:root:Function sendNotification ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function analyzeData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.06654548645019531 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.1216573715209961 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.017179489135742188 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025753021240234375 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03598356246948242 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018010139465332031 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02666187286376953 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03729653358459473 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.00508427619934082 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.03319215774536133 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0438845157623291 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017991065979003906 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02550482749938965 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03528308868408203 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001817464828491211 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02574634552001953 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03950810432434082 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018315315246582031 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.052738189697265625 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06691813468933105 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018568038940429688 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025905847549438477 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05079817771911621 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018353462219238281 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026668071746826172 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03757929801940918 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0051610469818115234 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.028040647506713867 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03800392150878906 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018303394317626953 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02586674690246582 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035864830017089844 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002076864242553711 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02576899528503418 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036682844161987305 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018193721771240234 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025410175323486328 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0355074405670166 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.003878355026245117 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.0392913818359375 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05480837821960449 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001783132553100586 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02569270133972168 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03566241264343262 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017824172973632812 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025677919387817383 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03590989112854004 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019788742065429688 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02551555633544922 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05047965049743652 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.037505388259887695 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02605605125427246 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05074334144592285 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017910003662109375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025372982025146484 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03555941581726074 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019788742065429688 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025697708129882812 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0355222225189209 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019683837890625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02819991111755371 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03899693489074707 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002084493637084961 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02651071548461914 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03670239448547363 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0074727535247802734 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025963306427001953 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03600192070007324 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020127296447753906 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025655031204223633 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03582596778869629 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019249916076660156 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025676250457763672 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03590893745422363 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018053054809570312 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02584981918334961 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035772085189819336 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001800537109375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026015520095825195 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03721427917480469 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.005692720413208008 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025615930557250977 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03569436073303223 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018525123596191406 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025818824768066406 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03639841079711914 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018734931945800781 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025509119033813477 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035491943359375 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001890420913696289 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02569890022277832 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03611898422241211 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020837783813476562 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02566385269165039 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03590536117553711 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0024907588958740234 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025645732879638672 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036097049713134766 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.005087614059448242 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026669979095458984 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.040964603424072266 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019443035125732422 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025596141815185547 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035744667053222656 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002051115036010742 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025687217712402344 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03578591346740723 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020592212677001953 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025667428970336914 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.050946950912475586 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0023593902587890625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025602102279663086 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03568005561828613 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002073049545288086 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.0256960391998291 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03626275062561035 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.005833864212036133 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02573871612548828 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03622031211853027 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018985271453857422 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.055768489837646484 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06580662727355957 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018992424011230469 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025691986083984375 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03554868698120117 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018947124481201172 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02592182159423828 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036667585372924805 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0021200180053710938 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025997161865234375 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.04559969902038574 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019009113311767578 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02587604522705078 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03606748580932617 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019311904907226562 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025704145431518555 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03616642951965332 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.006463527679443359 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.03635239601135254 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.04665350914001465 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020356178283691406 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02531123161315918 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03541445732116699 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001889944076538086 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026190996170043945 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03667879104614258 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020456314086914062 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.027083635330200195 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0380551815032959 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019249916076660156 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02732372283935547 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037752389907836914 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018992424011230469 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025609731674194336 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036902666091918945 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002145051956176758 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025598526000976562 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0360722541809082 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001926422119140625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.042807579040527344 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.053397178649902344 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.006151676177978516 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.013795852661132812 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.022034168243408203 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0010547637939453125 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025786876678466797 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03591585159301758 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019481182098388672 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.047028303146362305 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05759763717651367 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019235610961914062 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025628089904785156 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036016225814819336 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001983642578125 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025846481323242188 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03621315956115723 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019130706787109375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02569437026977539 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03606438636779785 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002155780792236328 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025968551635742188 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03682827949523926 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001956939697265625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.027629852294921875 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037734270095825195 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001905679702758789 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026613712310791016 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037325382232666016 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.00658106803894043 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.03577923774719238 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.046533823013305664 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019304752349853516 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.0262148380279541 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03677797317504883 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020897388458251953 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.027567386627197266 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037819623947143555 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019283294677734375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.03772926330566406 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.04783296585083008 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001936197280883789 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025640487670898438 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03619718551635742 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019140243530273438 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02593088150024414 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03744983673095703 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020210742950439453 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.05906224250793457 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06965017318725586 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019214153289794922 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025597095489501953 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036092281341552734 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001965045928955078 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025677919387817383 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036124467849731445 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019228458404541016 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025700807571411133 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03637242317199707 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.005749702453613281 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.05527663230895996 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06569194793701172 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.00177001953125 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02561473846435547 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03817892074584961 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017979145050048828 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025867462158203125 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03748822212219238 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001967191696166992 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.052136898040771484 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06259727478027344 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019621849060058594 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02600574493408203 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03694915771484375 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002088785171508789 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025691509246826172 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03621172904968262 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017883777618408203 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.05641961097717285 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.08126568794250488 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019469261169433594 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025650978088378906 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.050695180892944336 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017936229705810547 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026358842849731445 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036519527435302734 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017957687377929688 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025700807571411133 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03685927391052246 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019338130950927734 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02556014060974121 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0423429012298584 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.009441375732421875 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02552628517150879 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03624081611633301 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019435882568359375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02574777603149414 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037009239196777344 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.00191497802734375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025562286376953125 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03581857681274414 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019259452819824219 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025672197341918945 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036397695541381836 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002132415771484375 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025464534759521484 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036029815673828125 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019412040710449219 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.05004072189331055 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06058859825134277 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001917123794555664 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025714397430419922 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03620266914367676 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001905679702758789 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026222944259643555 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03643536567687988 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019321441650390625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.03438878059387207 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0444796085357666 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018193721771240234 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02595996856689453 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03609824180603027 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001840353012084961 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025505542755126953 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035936594009399414 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0018193721771240234 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025551319122314453 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03725004196166992 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.00602412223815918 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.04863905906677246 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05906081199645996 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019235610961914062 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025487661361694336 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03547024726867676 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019664764404296875 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026406288146972656 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05283045768737793 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001943826675415039 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.015265941619873047 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.023546934127807617 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0012962818145751953 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026211261749267578 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03623032569885254 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019092559814453125 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025971651077270508 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036710262298583984 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002184629440307617 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025592565536499023 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03608417510986328 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019474029541015625 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025686025619506836 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03592681884765625 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019235610961914062 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.0257108211517334 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03577470779418945 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001811981201171875 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025741100311279297 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03605914115905762 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001817464828491211 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025593280792236328 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035819053649902344 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017957687377929688 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025765419006347656 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03986096382141113 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017986297607421875 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02571582794189453 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03979372978210449 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.010361671447753906 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025915861129760742 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03963208198547363 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019693374633789062 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025649070739746094 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03556203842163086 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0017883777618408203 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025580167770385742 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03551363945007324 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019381046295166016 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025630474090576172 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.035651445388793945 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020732879638671875 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026039838790893555 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03642153739929199 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020639896392822266 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02618408203125 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03630542755126953 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019338130950927734 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02573704719543457 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03574967384338379 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0021390914916992188 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.050945281982421875 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.06199169158935547 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001924276351928711 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026964426040649414 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.037160396575927734 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020563602447509766 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.028376102447509766 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03873753547668457 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019199848175048828 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026093244552612305 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03727149963378906 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019195079803466797 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.026044368743896484 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03661823272705078 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.002097606658935547 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02596139907836914 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.036203622817993164 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0020475387573242188 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02619647979736328 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03641390800476074 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019452571868896484 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.028000354766845703 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.038312435150146484 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.006433963775634766 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.02586531639099121 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03985261917114258 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019257068634033203 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.04620027542114258 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.05644798278808594 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.0019314289093017578 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.0538630485534668 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.0640561580657959 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001947641372680664 seconds
+INFO:root:Function uploadToDatabase ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function getSenseHatData ran suceessful and it ran in: 0.025796890258789062 seconds
+INFO:root:Function uploadToDatabase ran suceessful and it ran in: 0.03715252876281738 seconds
+INFO:root:Function recordData ran with argument: (<__main__.Sending object at 0x74fdbdb0>,), and keyword argument: None
+INFO:root:Function recordData ran suceessful and it ran in: 0.001943349838256836 seconds
