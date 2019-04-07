@@ -1,3 +1,4 @@
+#Author: s3634919 Renning Liu
 from monitorAndNotify import Sending
 import logging, time, os, json
 import bluetooth

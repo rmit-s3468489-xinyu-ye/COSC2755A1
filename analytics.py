@@ -1,3 +1,4 @@
+#Author: s3468489 Xinyu Ye
 import matplotlib.pyplot as plt
 from project_config import connection
 import json,os

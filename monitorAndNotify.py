@@ -1,3 +1,4 @@
+#Author: s3468489 Xinyu Ye
 from sense_hat import SenseHat
 from datetime import datetime
 import os, json, time, requests

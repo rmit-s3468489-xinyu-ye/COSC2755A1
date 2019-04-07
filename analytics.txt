@@ -1,7 +1,0 @@
-Thinking question:
-1. We choose Line plots and bar charts and histograms as the visualisation graph, because if the dataset's distribution is polarized, the pie charts can not show the distribution correctly and the scatter plots is also hard to view.
-2. We just choose the temperature and humidity data, and divided them into in range data, exceeding max value and exceeding min value
-3. We choose matplotlib module and plotly module
-
-We think the matplotlib module is more flexible, explicit, simple way to use to create the visualisation graph. For example, plots need a lot of dependency packages, and need to import many different module to finish the task of creating graph. 
-But matplotlib module is more easier to do that.
